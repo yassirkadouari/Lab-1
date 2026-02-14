@@ -53,3 +53,15 @@ Apres avoir choisis l'option B dans la derniere partie du lab1, j'ai installer G
 <img width="1077" height="825" alt="{59629EBC-1C15-43E4-AABE-52BFC4264DB2}" src="https://github.com/user-attachments/assets/03b41c04-7d98-462c-bff8-04989f769f49" />
 
 
+
+
+
+
+### 5. Snapchot clean
+<img width="1920" height="974" alt="{CD9F9468-2220-49D5-ACA3-FABB71EB1248}" src="https://github.com/user-attachments/assets/fbea3e85-9084-4ae3-96d1-3719ec4a3575" />
+
+Nomme comme dans le lab 1, CLEAN_BASELINE_TP1
+
+
+
+
